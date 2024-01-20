@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapache_streampark_website=self.webpackChunkapache_streampark_website||[]).push([[3505],{83722:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/kubernetes","page":1,"postsPerPage":6,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
